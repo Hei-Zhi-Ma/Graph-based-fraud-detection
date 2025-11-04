@@ -1,2 +1,0 @@
-silhouette_score,davies_bouldin_score,adjusted_rand_index,normalized_mutual_info,accuracy_majority_vote,f1_majority_vote,roc_auc_distance
-0.8229727,0.27347018678144486,0.9735273807542233,0.9371115531583069,0.995,0.983050847457627,1.0
